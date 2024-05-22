@@ -5,4 +5,4 @@ https://colab.research.google.com/drive/1t9NPUf2mEMIst27jPFeYP3-sqShKzDA9?usp=sh
 https://b579-140-115-110-26.ngrok-free.app/
 
 # upload file for prediction
- https://cfb5-140-115-110-26.ngrok-free.app
+  https://e744-140-115-110-26.ngrok-free.app
