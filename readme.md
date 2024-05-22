@@ -1,2 +1,2 @@
 # google colab <br/>
-https://colab.research.google.com/github/ilham-ap/poster/blob/main/cloud_detection_and_aerosol_estimation.ipynb
+https://colab.research.google.com/drive/1t9NPUf2mEMIst27jPFeYP3-sqShKzDA9?usp=sharing
